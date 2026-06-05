@@ -1,2 +1,12 @@
-# ShopVerse
-Full-Stack E-Commerce Platform built with React.js, Spring Boot Microservices, JWT, OAuth, Razorpay and Eureka.
+# Source Code
+
+## Frontend
+- ecommerce-frontend
+
+## Backend Services
+- auth-service
+- product-service
+- cart-service
+- order-service
+- payment-service
+- eureka-server
